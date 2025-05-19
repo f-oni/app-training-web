@@ -23,11 +23,20 @@ Pull request created for Tom's branch, update-navigation branch
 
 ![image](https://github.com/user-attachments/assets/5841523c-a145-464e-97ff-2139cd78448b)
 
+Tom's branch comparison with main branch to resolve merge conflict
+
+![image](https://github.com/user-attachments/assets/0bc59c0a-3cf9-471f-8ad8-50d4a0f9923c)
+
+No merge conflict between Tom's branch and the main branch
+
+![image](https://github.com/user-attachments/assets/1536b065-7a35-428a-92ca-8fcf2f8c55b2)
+
+
 Merging Tom's pull request to the main branch
 
 ![image](https://github.com/user-attachments/assets/3eb53662-db80-4ff4-878d-6d736602d915)
 
-Switching to Jerry's branch, add-contact-info using **git checkout** command
+Switching to Jerry's branch, add-contact-info using **git checkout add-contact-info** 
 
 ![image](https://github.com/user-attachments/assets/9fdbda59-2e84-4c81-864e-f609466c639f)
 
@@ -44,21 +53,23 @@ Updating Jerry's local repository with latest changes.The local repo was updated
 
 ![image](https://github.com/user-attachments/assets/86bb800c-fbae-4dea-bf14-72f233545a81)
 
-Jerry's branch, add-contact-info selection
+Jerry's branch, add-contact-info selection in the remote repository
 
 ![image](https://github.com/user-attachments/assets/f0442373-16ef-4664-9e1e-5355a35296e7)
 
-Creating pull request for Jerry's branch and comparing changes to fix possible merge conflict
+Creating pull request for Jerry's branch and comparing changes to resolve possible merge conflict
 
 ![image](https://github.com/user-attachments/assets/d3c6bd2d-0e39-4fee-93a2-903bfa00314f)
 
+No merge conflict between Jerry's branch and the main branch
+
 ![image](https://github.com/user-attachments/assets/d0ab7b13-c259-4a6c-96d9-19f4b8457077)
 
-Second branch pull request created
+pull request was created for Jerry's branch, add-contact-info
 
 ![image](https://github.com/user-attachments/assets/08cd4aed-174e-47f0-b182-2ba1b2b92533)
 
-Jerry's pull request merged to the main branch
+Jerry's pull request was merged to the main branch
 
 ![image](https://github.com/user-attachments/assets/92a6f973-6217-4052-a972-e5f6449ee864)
 
